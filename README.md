@@ -1,0 +1,1 @@
+# js-omework-6
