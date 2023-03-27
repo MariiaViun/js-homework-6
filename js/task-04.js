@@ -10,7 +10,8 @@ let counterValue = 0;
 
 function onClickDecrement(event) {
     const spanNum = Number(span.textContent);
-     console.log(spanNum);
+    console.log(spanNum);
+    
     // =  counterValue - 1;
 //    currentTarget.
 
